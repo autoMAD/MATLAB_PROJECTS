@@ -1,0 +1,24 @@
+%if(strcmp(patient,'Patient1'))
+    %   file = fopen('C:\Users\Achutharanga\Google Drive\patient1.txt', 'w');
+     %  data= fwrite(file, b);
+      % fclose(file);
+  % end
+   
+   %if(strcmp(patient,'Patient2'))
+    %   file = fopen('C:\Users\Achutharanga\Google Drive\patient2.txt', 'w');
+     %  data= fwrite(file, b);
+      % fclose(file);
+  % end
+    
+   %if(strcmp(patient,'Patient3'))
+    %   file = fopen('C:\Users\Achutharanga\Google Drive\patient3.txt', 'w');
+     %  data= fwrite(file, b);
+      % fclose(file);
+  % end
+    
+ %  if(strcmp(patient,'Patient4'))
+  %     file = fopen('C:\Users\Achutharanga\Google Drive\patient4.txt', 'w');
+   %    data= fwrite(file, b);
+    %   fclose(file);
+   %end
+   
